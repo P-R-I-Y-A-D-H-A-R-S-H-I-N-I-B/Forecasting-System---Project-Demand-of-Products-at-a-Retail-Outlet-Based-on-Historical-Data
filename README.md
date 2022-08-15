@@ -10,8 +10,7 @@
     Visualize the predictions.
 ## Expected Project Outcome
     Learn about different forecasting models like ARMA and ARIMA.
-    Get knowledge in python libraries like numpy, pandas, statsmodels and prophet.
-    Get familiar with industry type projects.
+    Get knowledge in python libraries like numpy, pandas, statsmodels, prophet and get familiar with industry type projects.
 ## Software Requirements
     Jupyter Notebook
     Python
